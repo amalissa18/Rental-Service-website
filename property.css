@@ -1,0 +1,24 @@
+.property-box {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width */
+  margin-bottom: 20px; /* Add some space between boxes */
+  display: flex; /* Use flexbox to stack image and content vertically */
+  flex-direction: column;
+}
+
+.property-image {
+  width: 100%; /* Make the image full-width */
+  height: 150px; /* Set a fixed height for the image */
+  object-fit: cover; /* Scale the image to cover the entire area */
+  border-radius: 10px 10px 0 0; /* Add rounded corners to the top of the image */
+}
+
+.property-title {
+  margin-top: 10px; /* Add some space between image and title */
+}
+
+.property-details {
+  margin-top: 10px; /* Add some space between title and details */
+}
