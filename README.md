@@ -1,6 +1,6 @@
 # Rental Services Website  
-### Senior Project | Lebanese International University  
-**Live Demo**: [Link if deployed] | **Technologies**: HTML/CSS, JavaScript, PHP, MySQL  
+### Senior Project |
+**Technologies**: HTML/CSS, JavaScript, PHP, MySQL  
 
 ## Features  
 - User authentication (login/signup).  
